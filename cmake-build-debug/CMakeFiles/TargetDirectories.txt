@@ -1,0 +1,6 @@
+/Users/akash/CLionProjects/DSA_Solve/cmake-build-debug/CMakeFiles/q_1.dir
+/Users/akash/CLionProjects/DSA_Solve/cmake-build-debug/CMakeFiles/q_2.dir
+/Users/akash/CLionProjects/DSA_Solve/cmake-build-debug/CMakeFiles/q_3.dir
+/Users/akash/CLionProjects/DSA_Solve/cmake-build-debug/CMakeFiles/q_4.dir
+/Users/akash/CLionProjects/DSA_Solve/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akash/CLionProjects/DSA_Solve/cmake-build-debug/CMakeFiles/rebuild_cache.dir
